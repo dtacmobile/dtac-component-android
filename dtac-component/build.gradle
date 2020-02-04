@@ -1,6 +1,8 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
+apply plugin: 'maven'
+apply from: 'gradle-mvn-push.gradle'
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
