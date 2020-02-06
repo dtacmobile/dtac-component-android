@@ -14,9 +14,6 @@ import androidx.core.content.res.ResourcesCompat;
 
 import th.co.dtac.library.utils.DtacUtilsKt;
 
-/**
- * @author BabeDev
- */
 public class DtacConfirmButton extends AppCompatButton {
 
     public DtacConfirmButton(Context context) {
