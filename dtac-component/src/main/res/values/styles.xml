@@ -1,0 +1,47 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- FONT -->
+    <style name="FontBold">
+        <item name="android:fontFamily">@font/dtac2018_bold</item>
+        <item name="fontFamily">@font/dtac2018_bold</item>
+    </style>
+
+    <style name="FontBoldItalic">
+        <item name="android:fontFamily">@font/dtac2018_bold_italic</item>
+        <item name="fontFamily">@font/dtac2018_bold_italic</item>
+    </style>
+
+    <style name="FontItalic">
+        <item name="android:fontFamily">@font/dtac2018_italic</item>
+        <item name="fontFamily">@font/dtac2018_italic</item>
+    </style>
+
+    <style name="FontLight">
+        <item name="android:fontFamily">@font/dtac2018_light</item>
+        <item name="fontFamily">@font/dtac2018_light</item>
+    </style>
+
+    <style name="FontLightItalic">
+        <item name="android:fontFamily">@font/dtac2018_light_italic</item>
+        <item name="fontFamily">@font/dtac2018_light_italic</item>
+    </style>
+
+    <style name="FontRegular">
+        <item name="android:fontFamily">@font/dtac2018_regular</item>
+        <item name="fontFamily">@font/dtac2018_regular</item>
+    </style>
+
+    <style name="NewDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+</resources>

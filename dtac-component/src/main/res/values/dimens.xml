@@ -1,0 +1,46 @@
+<resources>
+
+    <dimen name="text_10">10sp</dimen>
+    <dimen name="text_11">11sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_13">13sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_22">22sp</dimen>
+    <dimen name="text_17">17sp</dimen>
+    <dimen name="text_21">21sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+
+    <dimen name="int_2dp">2dp</dimen>
+    <dimen name="int_5dp">5dp</dimen>
+    <dimen name="int_8dp">8dp</dimen>
+    <dimen name="int_10dp">10dp</dimen>
+    <dimen name="int_12dp">12dp</dimen>
+    <dimen name="int_14dp">14dp</dimen>
+    <dimen name="int_15dp">15dp</dimen>
+    <dimen name="int_16dp">16dp</dimen>
+    <dimen name="int_20dp">20dp</dimen>
+    <dimen name="int_24dp">24dp</dimen>
+    <dimen name="int_25dp">25dp</dimen>
+    <dimen name="int_30dp">30dp</dimen>
+    <dimen name="int_31dp">31dp</dimen>
+    <dimen name="int_4dp">4dp</dimen>
+    <dimen name="int_40dp">40dp</dimen>
+    <dimen name="int_42dp">42dp</dimen>
+    <dimen name="int_48dp">48dp</dimen>
+    <dimen name="int_50dp">50dp</dimen>
+    <dimen name="int_55dp">55dp</dimen>
+    <dimen name="int_62dp">62dp</dimen>
+    <dimen name="int_65dp">65dp</dimen>
+    <dimen name="int_70dp">70dp</dimen>
+    <dimen name="int_100dp">100dp</dimen>
+    <dimen name="int_150dp">150dp</dimen>
+    <dimen name="int_180dp">180dp</dimen>
+    <dimen name="int_190dp">190dp</dimen>
+    <dimen name="int_200dp">200dp</dimen>
+    <dimen name="item_offset">2dp</dimen>
+
+</resources>
