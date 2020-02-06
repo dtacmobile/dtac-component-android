@@ -2,7 +2,7 @@ package com.dtac.mobile.component
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import th.co.dtac.library.CustomProgressDialog
+import th.co.dtac.library.DtacProgressDialog
 
 class MainActivity : AppCompatActivity() {
 
@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        CustomProgressDialog.showProgress(this, true)
+        DtacProgressDialog.showProgress(this, true)
     }
 }

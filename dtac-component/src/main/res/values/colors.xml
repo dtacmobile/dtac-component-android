@@ -1,7 +1,7 @@
 <resources>
     <color name="dtac_telenor_blue">#19AAF8</color>
     <color name="dtac_telenor_link">#007AD0</color>
-    <color name="dtac_telenor_black">#OC1026</color>
+    <color name="dtac_telenor_black">#0C1026</color>
     <color name="dtac_white">#FFFFFF</color>
     <color name="dtac_light_gray">#F5F5F5</color>
     <color name="dtac_light_gray2">#D6D6D6</color>
@@ -14,7 +14,7 @@
     <color name="dtac_yellow">#FDF192</color>
     <color name="dtac_orange">#FFCB96</color>
     <color name="dtac_red">#FFB4B4</color>
-    <color name="dtac_pink">#OC1O26</color>
+<!--    <color name="dtac_pink">#0C1O26</color>-->
     <color name="dtac_light_purple">#E6E9F4</color>
     <color name="dtac_light_blue">#E6EEF4</color>
     <color name="dtac_light_turquoise">#EAF3F5</color>
