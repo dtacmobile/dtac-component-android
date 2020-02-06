@@ -7,7 +7,7 @@ import android.view.Window
 import com.airbnb.lottie.LottieAnimationView
 
 
-class CustomProgressDialog {
+class DtacProgressDialog {
     companion object {
         private var dialog: Dialog? = null
         private lateinit var animationView: LottieAnimationView
