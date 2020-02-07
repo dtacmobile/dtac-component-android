@@ -8,3 +8,6 @@ dtac Components for Andoid helps developers execute dtac design. Developed by a 
 
 dtac component uses the font dtac 2018 and Source Sans Pro,
 copyright 2020 TOTAL ACCESS COMMUNICATION PUBLIC COMPANY LIMITED.
+
+
+# Gradle Started
