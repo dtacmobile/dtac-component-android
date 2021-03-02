@@ -9,4 +9,11 @@
         <attr name="isAutoScroll" format="boolean" />
         <attr name="isReverse" format="boolean" />
     </declare-styleable>
+
+    <declare-styleable name="DtacTextField">
+        <attr name="regexType" format="enum">
+            <enum name="msisdn" value="1" />
+            <enum name="email" value="2" />
+        </attr>
+    </declare-styleable>
 </resources>
