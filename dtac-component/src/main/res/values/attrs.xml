@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseComponent">
+        <attr name="isScale" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="DtacMultiBannerView">
+        <attr name="interval" format="integer" />
+        <attr name="isAutoScroll" format="boolean" />
+        <attr name="isReverse" format="boolean" />
+    </declare-styleable>
+</resources>

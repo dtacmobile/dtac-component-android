@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_white_selected_stroke_black_radius_4" android:state_pressed="true" />
+    <item android:drawable="@drawable/bg_white_selected_stroke_black_radius_4" android:state_activated="true" />
+    <item android:drawable="@drawable/bg_white_selected_stroke_black_radius_4" android:state_focused="true" />
+    <item android:drawable="@drawable/bg_white_stroke_black_radius_4" />
+</selector>

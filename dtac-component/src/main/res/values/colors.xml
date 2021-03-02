@@ -1,8 +1,11 @@
 <resources>
+    <color name="dtac_telenor_black">#1A1A1A</color>
     <color name="dtac_telenor_blue">#19AAF8</color>
     <color name="dtac_telenor_link">#007AD0</color>
-    <color name="dtac_telenor_black">#0C1026</color>
+    <color name="dtac_telenor_link_selected">#0061A6</color>
+    <color name="dtac_telenor_link_disable">#880061A6</color>
     <color name="dtac_white">#FFFFFF</color>
+    <color name="dtac_white_selected">#E5E5E5</color>
     <color name="dtac_light_gray">#F5F5F5</color>
     <color name="dtac_light_gray2">#D6D6D6</color>
     <color name="dtac_dark_gray">#767676</color>
@@ -23,4 +26,9 @@
     <color name="dtac_light_orange">#F7F2ED</color>
     <color name="dtac_light_red">#F7EDED</color>
     <color name="dtac_light_pink">#F8F0F4</color>
+
+    <color name="dtac_dark_feelgood">#004969</color>
+    <color name="dtac_dtac_blue">#00ACE7</color>
+    <color name="dtac_feelgood">#19AAF8</color>
+    <color name="white">#FFFFFF</color>
 </resources>

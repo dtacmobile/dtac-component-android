@@ -43,4 +43,6 @@
     <dimen name="int_200dp">200dp</dimen>
     <dimen name="item_offset">2dp</dimen>
 
+    <dimen name="paddingSpace">8dp</dimen>
+
 </resources>
