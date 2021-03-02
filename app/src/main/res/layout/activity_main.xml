@@ -43,6 +43,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
+    <th.co.dtac.library.textfield.DtacTextField
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
     <th.co.dtac.library.textview.TextViewSeeMore
         android:id="@+id/tvSeeMore"
         android:layout_width="match_parent"
